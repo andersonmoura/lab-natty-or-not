@@ -5,7 +5,7 @@ Evolução das IAs Generativa até a era do Deep Fake
 Projeto utilizando IA generativa, contando a história de evolução das próprias IAs generativas, ate chegarmos na era dos Deep Fakes
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa **[synthesia](https://www.synthesia.io/)** para geração do script e avatar humano
+IA Generativa [synthesia](https://www.synthesia.io/) para geração do script e avatar humano.
 
 ## 🧐 Processo de Criação
 Todo projeto foi realizado por meio da IA generativa da synthesia, desde a geração do script até a renderização do avatar humano.
